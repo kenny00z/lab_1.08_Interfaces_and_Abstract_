@@ -6,10 +6,16 @@ public class IntArrayList implements IntList {
 
 
 
+    int [] myArray = {10};
+
+
+
 
 
     @Override
     public void addNewNumber(int num) {
+
+
 
     }
 
